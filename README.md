@@ -14,7 +14,14 @@ Sou João Fonseca e gosto de criar soluções que conectam sistemas, dados e pes
 ### 📊 Minha jornada no GitHub
 
 <!-- github-stats:start -->
-As métricas aparecerão aqui após configurar e executar a atualização automática.
+
+| 📁 Repositórios trabalhados | 💻 Commits | 🤝 Interações |
+| :---: | :---: | :---: |
+| **3** | **494** | **21** |
+
+Issues: **0** · Pull requests: **21** · Revisões: **0**
+
+*Atualizado em 11/11/2026 (UTC).*
 <!-- github-stats:end -->
 
 <details>
